@@ -14,7 +14,7 @@ on:
 jobs:
   package:
     runs-on:
-      - ubuntu-latest-4-cores-x64
+      - ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
