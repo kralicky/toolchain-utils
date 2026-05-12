@@ -1,4 +1,6 @@
 {prefix}/include/c++/v1/__config_site
+{prefix}/bin/llvm-objcopy
+{prefix}/bin/llvm-install-name-tool
 {prefix}/lib/libc++.1.0.dylib
 {prefix}/lib/libc++.1.dylib
 {prefix}/lib/libc++.dylib
